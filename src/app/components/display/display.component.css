@@ -1,0 +1,11 @@
+h2{
+    color:slateblue;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: darkgreen;
+}
+img{
+    clip: auto;
+}
